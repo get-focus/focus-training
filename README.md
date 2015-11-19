@@ -1,4 +1,4 @@
-# Entrainez-vous à développer votre application FOCUS
+# FOCUS training session
 
 ## 1. Création d'une entrée dans le router
 
