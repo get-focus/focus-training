@@ -1,6 +1,8 @@
 import FocusCore from 'focus-core';
 
-FocusCore.definition.entity.container.setEntityConfiguration(require('../config/entity-definition'));
+import * as difinitions from '../config/entity-definition';
+
+FocusCore.definition.entity.container.setEntityConfiguration(difinitions);
 
 //Display domaines utilisés
 const entityDef = require('../config/entity-definition');

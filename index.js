@@ -8,7 +8,7 @@ new WebpackDevServer(webpack(webpackConfig), {
     hot: true,
     historyApiFallback: true,
     contentBase: './public/'
-}).listen(3000, 'localhost', (err) => {
+}).listen(4000, 'localhost', (err) => {
     if (err) {
         console.log(err);
     }
