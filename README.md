@@ -1,6 +1,14 @@
 # FOCUS training session
 
-## 1. Création d'une entrée dans le router
+## Etape 1
 
-## 2. Création d'une vue
+Faire un fork du répertoire de formation
+
+## Etape 2
+
+Prenez le  temps de regarder la structure de l'application.
+Comme décrit au paragraphe précédent.initialize.js, les initializers. 
+ Voir [ici](http://kleegroup.github.io/focus-docs/getting-started/index.html)
+ 
+ ## Etape 3
 
