@@ -25,6 +25,7 @@ Créer la coquille de la page de détail
 
 Création d'un bloc de détail
 
+
 - Récupérer le mixin correspondant dans focus
 - Créer le store
 - Créer l'action de chargement
