@@ -28,6 +28,6 @@ Création d'un bloc de détail
 - Récupérer le mixin correspondant dans focus
 - Créer le store
 - Créer l'action de chargement
-- Initialiser les propiétés nécessaires (``definitionPath`, `storeConf` , ...)
+- Initialiser les propiétés nécessaires (`definitionPath`, `storeConf` , ...)
 - Afficher la page
 - Créer l'action de sauvegarde
