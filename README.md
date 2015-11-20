@@ -17,4 +17,17 @@ Créer un routeur et créer une ou plusieurs route.
 - La route doit afficher un composant basique React type hello world
 - La route doit afficher un composant affichant la liste des paramêtres de la route
 
+## Etape 4
 
+Créer la coquille de la page de détail
+
+## Etape 5
+
+Création d'un bloc de détail
+
+- Récupérer le mixin correspondant dans focus
+- Créer le store
+- Créer l'action de chargement
+- Initialiser les propiétés nécessaires (``definitionPath`, `storeConf` , ...)
+- Afficher la page
+- Créer l'action de sauvegarde
